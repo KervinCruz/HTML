@@ -1,0 +1,52 @@
+/* * {
+	margin: 0;
+	padding: 0;
+}*/
+
+body{
+}
+
+.barra{
+	color:white;
+	background: black;
+	font-size: 20px
+}
+
+h1{
+	color: red;
+	opacity: 0.85;
+	background: #000 
+
+}
+
+p{
+	color: white;
+	background: black;
+	font-size: 20px 
+}
+
+p b{
+	color: white;
+	background: red;
+	font-size: 20px
+}
+p span{
+	color: white;
+	background: red;
+	font-size: 20px
+}
+.parrafo{      /*  Esto es para crear una clase*/
+	color: white;
+	background: red;
+	font-size: 20px
+}
+
+#parrafo{      /*  Esto es para crear un id. Nota: No se puede usar en otros atributos. No se usan mucho*/
+	color: white;
+	background: red;
+	font-size: 20px
+}
+
+p a[href="hola"]{
+	color:white;
+}
