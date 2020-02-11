@@ -4,49 +4,44 @@
 }*/
 
 body{
+	background: #5C12A6;
 }
 
+.imagen{
+	opacity: 0.4;
+	position: absolute;
+}
 .barra{
-	color:white;
-	background: black;
+	color:#000;
 	font-size: 20px
 }
 
 h1{
-	color: red;
-	opacity: 0.85;
-	background: #000 
+	color: #000;
+	background: #2F0459 
 
 }
 
 p{
-	color: white;
-	background: black;
+	color: #000;
+	background: #F2E205;
 	font-size: 20px 
 }
 
 p b{
-	color: white;
-	background: red;
+	color: #000;
 	font-size: 20px
 }
 p span{
-	color: white;
-	background: red;
+	color: #000;
 	font-size: 20px
 }
 .parrafo{      /*  Esto es para crear una clase*/
-	color: white;
-	background: red;
+	color: #000;;
 	font-size: 20px
 }
 
 #parrafo{      /*  Esto es para crear un id. Nota: No se puede usar en otros atributos. No se usan mucho*/
-	color: white;
-	background: red;
+	color: #000
 	font-size: 20px
-}
-
-p a[href="hola"]{
-	color:white;
 }
